@@ -1,0 +1,27 @@
+/* 
+    Document   : style
+    Created on : Jan 5, 2014, 9:37:04 AM
+    Author     : DJ
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.maindiv  {
+    position:absolute;
+    height: 700px;
+    width: 600px;
+    margin-left: 300px;
+  
+    background-color:salmon;
+    border-color: red;
+    font-size: 20px;
+}
+.interdiv  {
+    position: absolute;
+    margin-left: 100px;
+
+}
+
+root { 
+    display: block;
+
+}
